@@ -1,5 +1,5 @@
 # rust-note
-My Rust note. 90% is basically my translation(CN) of "[***The Rust Programming Language***](https://doc.rust-lang.org/book/title-page.html)". 10% is my own note stuff.
+My ***Rust*** note. 90% is basically my translation(CN) of "[***The Rust Programming Language***](https://doc.rust-lang.org/book/title-page.html)". 10% is my own note stuff.
 
 ## description
 这是我在学习 ***Rust*** 时做的笔记。其中 90% 的内容是 [***The Rust Programming Language***](https://doc.rust-lang.org/book/title-page.html) 的中文译文。   
